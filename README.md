@@ -11,19 +11,29 @@
 #### 使用说明
 
 上传格式:
+<br>
 `
 url 蓝奏云文件链接(必填)
+<br>
 pwd 密码(有密码的链接必填)
+<br>
 type 返回方式(选填)
+<br>
 `
 
 返回格式:
+<br>
 `
 code 代码
+<br>
 msg 返回结果
+<br>
 name 文件名称
+<br>
 filesize 文件大小
+<br>
 downUrl 文件直链
+<br>
 `
 
 #### 参与贡献
